@@ -1,0 +1,64 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+.main_content
+{
+    width: 350px;
+   display: flex;
+   background-color: rgb(27, 27, 27);
+   margin: 0 auto;
+   position: relative;
+   top: 150px;
+   flex-direction: column;
+   height: 460px;
+   border-radius: 10px;
+    
+}
+
+.screen
+{
+
+    width: 80%;
+    position: relative;
+    top: 20px;
+    background-color: darkolivegreen;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+table 
+{
+     display: flex;
+     flex-direction: row-reverse;
+     position: relative;
+     top: 30px;
+     right: 40px;
+
+}
+
+table tr th
+{
+    padding: 10px;
+    border: 1px solid rgb(117, 67, 2);
+    background-color: rgb(117, 67, 2);   
+} 
+
+.button_group
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+}
+
+.button_group button
+{
+   width: 50px;
+   padding: 10px;
+   margin: 5px;
+}
+
+ 
