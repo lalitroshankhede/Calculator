@@ -1,5 +1,7 @@
 # Calculator
 
+Note : Working on Javascript to Perform Operations like Addition ,Substraction, Multiplication, Division and Intrest 
+
 This is a simple calculator web application built using HTML, CSS, and Flexbox. 
 ## Features
 
